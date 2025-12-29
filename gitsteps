@@ -1,0 +1,5 @@
+1.	Clone the project = git clone <url>
+2.	Adding working tree = git add 
+3.	Committing (staging area) = git commit -m (comment)
+4.	Pushing = git push 
+
